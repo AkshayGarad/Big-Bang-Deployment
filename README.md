@@ -11,9 +11,9 @@ By following the guidelines presented here, organizations can navigate the compl
 ## Table of Contents
 
 1. [Understanding Big Bang Deployment](#understanding-big-bang-deployment)
-   1.1 [Definition and Key Concepts](#definition-and-key-concepts)
-   1.2 [When to Consider Big Bang Deployment](#when-to-consider-big-bang-deployment)
-   1.3 [Benefits and Risks](#benefits-and-risks)
+   - 1.1 [Definition and Key Concepts](#definition-and-key-concepts)
+   - 1.2 [When to Consider Big Bang Deployment](#when-to-consider-big-bang-deployment)
+   - 1.3 [Benefits and Risks](#benefits-and-risks)
 
 2. [Planning for Big Bang Deployment](#planning-for-big-bang-deployment)
    2.1 [Establishing Clear Objectives](#establishing-clear-objectives)
